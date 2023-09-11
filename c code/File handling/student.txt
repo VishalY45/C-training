@@ -1,0 +1,7 @@
+vishal 12 3355185
+vishal 10 1001
+vishal 10 1001
+disha 10 1001
+disha 10 1001
+soham 12 1234
+ram 34 90

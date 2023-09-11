@@ -1,0 +1,5 @@
+12	947398688	1163667766	mbarcadero\Dev-Cpp\TDM-GCC-64\bin;C:\Pro	DM-GCC-64\bin;C:\Pro
+vishal	842231141	1701859164	nSSH\;C:\Program Files\Java\jdk-18.0.2\b	es\Java\jdk-18.0.2\b
+vishal	12	-791418942	pathari	vy8972@123
+vishal	12	-791518942	vishal@123	pathari
+vishal	12	7896543	pathari	vy@123
