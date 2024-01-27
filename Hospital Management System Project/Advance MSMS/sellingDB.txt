@@ -1,0 +1,4 @@
+cipal	vishal yadav	12june2012	23	2	234	231	123
+vishal yadav	cipla	12june2012	33	2	23	231	212
+vishal yadav	cipla	22june2022	sarkate	2	33	45	55	10
+vishal yadav	cipla	121212	nikam	22	3	23	23	12
